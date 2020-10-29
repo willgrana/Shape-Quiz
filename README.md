@@ -11,4 +11,4 @@ In the Question class, the drawShapes() function uses polymorphism by drawing
 objects of different classes with the overridden virtual method draw() from a vector of
 smart pointers of different Shape child classes.
 
-
+The main function is in graphics.cpp.
